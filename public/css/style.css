@@ -1,0 +1,22 @@
+/* style.css */
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: #eea;
+}
+
+.container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 10vw;
+  text-align: center;
+}
